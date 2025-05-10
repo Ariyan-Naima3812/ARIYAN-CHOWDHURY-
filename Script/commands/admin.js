@@ -29,10 +29,7 @@ var link = ["https://i.postimg.cc/1tJHSkn2/1740504548780.jpg",
             
             "https://i.postimg.cc/7Z0nhGJg/1728637121854.jpg",
 
-            "https://i.postimg.cc/02JpXMfL/IMG-20240704-225140.jpg",
-       
-            
-            ""];
+            "https://i.postimg.cc/02JpXMfL/IMG-20240704-225140.jpg"];
   
 var callback = () => api.sendMessage({body:`𝗔𝘀𝘀𝗮𝗹𝗮𝗺𝘂  𝗔𝗹𝗮𝗶𝗸𝘂𝗺🌺💚𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 
 ________________________________________
