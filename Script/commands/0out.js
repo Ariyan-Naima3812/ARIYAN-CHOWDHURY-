@@ -11,5 +11,5 @@ module.exports.config = {
 
 module.exports.run = async function({ api, event, args }) {
         if (!args[0]) return api.removeUserFromGroup(api.getCurrentUserID(), event.threadID);
-        if (!isNaN(args[0])) return api.removeUserFromGroup(api.getCurrentUserID(), args.join(" "));
+        if (!isNaN(args[0])) return api.removeUserFromGroup(api.getCurrentUserID(), args.join("পোলাপাইন তোমাদেরকে যদি আমি বিরক্ত করে থাকি তাহলে আমার কাছে এসে ক্ষমা চেয়ে যাইয়ো "));
 }
